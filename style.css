@@ -1,0 +1,465 @@
+.user-icon {
+  width: 13%;
+  height: 8%;
+  padding-left: 30px;
+}
+body {
+  background-color: #1f172f;
+  color: white;
+  position: relative;
+}
+
+.EmailAddress {
+  margin: 0;
+  padding-left: 40px;
+  margin-top: 20px;
+  padding-bottom: 40px;
+}
+.Points {
+  margin: 30px;
+  margin-bottom: 10px;
+  margin-left: -180px;
+  padding-left: 10px;
+  margin-top: 60px;
+  padding-bottom: 5px;
+}
+.BGround-color {
+  background-color: #241e36;
+  width: 30%;
+  height: 20px;
+}
+.pic {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+}
+
+.bton {
+  padding-right: 0;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+button {
+  color: white;
+  background-color: #109bff;
+  margin-left: 500%;
+  border-radius: 10lvi;
+  width: 55px;
+  height: 30px;
+}
+
+.NumberOfTime {
+  border: solid;
+  width: 100%;
+  height: 200px;
+  margin-top: 30px;
+  border-radius: 30px;
+}
+.num {
+  padding-left: 150px;
+  padding-top: 0px;
+}
+
+.info {
+  padding-left: 70px;
+  padding-bottom: 0px;
+}
+.formating {
+  padding-left: 80px;
+}
+
+.inline-c {
+  display: inline;
+  margin: 0 10px;
+}
+
+.text2 {
+  position: relative;
+  margin-top: -120px;
+  margin-left: 500px;
+}
+.text3 {
+  align-items: center;
+  margin-left: -100px;
+}
+.formating2 {
+  text-align: center;
+  margin-left: -720px;
+}
+
+.card {
+  margin-top: 140px;
+  margin-left: 10px;
+  height: 80px;
+  width: 80px;
+  margin-left: -450px;
+}
+.clipboard {
+  height: 80px;
+  margin-left: 80px;
+  width: 80px;
+}
+.diamond {
+  height: 80px;
+  margin-left: 80px;
+  width: 80px;
+}
+.swm {
+  height: 80px;
+  margin-left: 80px;
+  width: 80px;
+}
+.icon {
+  margin-top: 15px;
+}
+
+.tex4 {
+  margin-top: -10px;
+}
+
+.mission {
+  margin-left: 40px;
+  color: white;
+  margin-top: -25px;
+}
+.charge {
+  margin-top: -42px;
+  margin-left: 200px;
+  color: white;
+}
+.buy {
+  margin-top: -40px;
+  margin-left: 370px;
+  color: white;
+}
+.swmtext {
+  margin-top: -40px;
+  margin-left: 560px;
+  color: white;
+}
+table {
+  padding: 80px;
+}
+th {
+  padding: 60px;
+}
+.data {
+  padding-top: -100px;
+  margin-top: -100px;
+}
+.tabletext {
+  height: 100px;
+  margin: 10px;
+  width: 150px;
+  background-color: #2d2d49;
+}
+
+.text1 {
+  color: white;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+.data1 {
+  color: skyblue;
+  padding-left: 68px;
+}
+.text5 {
+  color: white;
+  padding-left: 45px;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.data2 {
+  color: skyblue;
+  padding-left: 60px;
+}
+.text6 {
+  color: white;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+.data3 {
+  color: skyblue;
+  padding-left: 65px;
+}
+.block1 {
+  margin-left: 270px;
+}
+
+.block2 {
+  margin-left: 50px;
+  margin-top: -117px;
+}
+.block3 {
+  margin-top: -120px;
+  margin-left: 560px;
+}
+.text10 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+.data10 {
+  color: skyblue;
+  text-align: center;
+}
+
+.text11 {
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.color {
+  height: 400px;
+  width: 1200px;
+  margin-top: -110px;
+  background-color: #2d2d49;
+}
+
+.setting {
+  height: 5px;
+  width: 5px;
+}
+
+.settingicon {
+  margin-left: 1200px;
+  width: 50px;
+  margin-top: -130px;
+  height: 50px;
+  margin-bottom: 25px;
+}
+.launchedPad {
+  height: 90px;
+  margin-left: 80px;
+  width: 90px;
+}
+.saving {
+  height: 90px;
+  margin-left: 80px;
+  width: 90px;
+}
+.swap {
+  height: 90px;
+  margin-left: 80px;
+  width: 90px;
+}
+.more-icon {
+  height: 90px;
+  margin-left: 80px;
+  width: 90px;
+}
+/* This code for ipad Air device only */
+@media only screen and (max-width: 900px) {
+  .title_1 {
+    font-size: 40px;
+  }
+  .user-icon {
+    width: 13%;
+    height: 7%;
+  }
+  .settingicon {
+    margin-left: 750px;
+  }
+  .EmailAddress {
+    margin: 0;
+    padding-left: 40px;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    font-size: 35px;
+  }
+
+  .Points {
+    font-size: 30px;
+    margin-left: -310px;
+    padding-left: 10px;
+    margin-top: 90px;
+    padding-bottom: 1px;
+    display: inline;
+  }
+
+  .Balance {
+    margin-top: -35px;
+    margin-left: 120px;
+  }
+  .bton {
+    margin-left: -300px;
+    margin-top: 50px;
+  }
+  button {
+    width: 95px;
+    height: 45px;
+    font-size: 30px;
+  }
+  .NumberOfTime {
+    width: 93%;
+    font-size: 20px;
+  }
+  .formating2 {
+    font-size: 25px;
+    margin-left: -125px;
+  }
+
+  .color {
+    width: 810px;
+  }
+
+  .card {
+    margin-left: -450px;
+  }
+  .clipboard {
+    margin-left: 130px;
+  }
+  .diamond {
+    margin-left: 130px;
+  }
+  .swm {
+    margin-left: 130px;
+  }
+
+  .mission {
+    font-size: 30px;
+    margin-top: -290px;
+  }
+  .charge {
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 270px;
+  }
+  .buy {
+    font-size: 30px;
+    margin-top: -62px;
+    margin-left: 450px;
+  }
+  .swmtext {
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 700px;
+  }
+  .text1 {
+    font-size: 22px;
+  }
+
+  .tabletext {
+    height: 100px;
+    margin: 20px;
+    width: 240px;
+  }
+
+  .block1 {
+    margin-left: 280px;
+  }
+
+  .block2 {
+    margin-left: 70px;
+    margin-top: -117px;
+  }
+  .block3 {
+    margin-top: -120px;
+    margin-left: 560px;
+  }
+  .data3 {
+    font-size: 30px;
+    margin-top: -17px;
+  }
+  .data10 {
+    font-size: 30px;
+    margin-top: -8px;
+  }
+  .data2 {
+    font-size: 30px;
+    margin-top: -15px;
+  }
+  .data1 {
+    font-size: 30px;
+    margin-top: -21px;
+    margin-left: 20px;
+  }
+  .text1 {
+    font-size: 30px;
+    margin-top: -10px;
+  }
+  .tex5 {
+    font-size: 30px;
+  }
+  .text6 {
+    font-size: 30px;
+    margin-top: -10px;
+  }
+  .text10 {
+    font-size: 30px;
+    margin-top: -10px;
+  }
+  .lunchpad {
+    width: 10px;
+    height: 10px;
+  }
+  .launchedPad {
+    height: 90px;
+    margin-left: 80px;
+    width: 90px;
+  }
+  .saving {
+    height: 90px;
+    margin-left: 80px;
+    width: 90px;
+  }
+  .swap {
+    height: 90px;
+    margin-left: 80px;
+    width: 90px;
+  }
+  .more-icon {
+    height: 90px;
+    margin-left: 80px;
+    width: 90px;
+  }
+
+  .moneybag {
+    height: 120px;
+    margin-left: 35px;
+    width: 120px;
+  }
+  #w-text {
+    font-size: xx-large;
+
+    padding-left: 50px;
+    color: aqua;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  .launchedPad {
+    margin-left: 40px;
+    margin-top: 40px;
+  }
+  .launchedPad-text {
+    font-size: xx-large;
+    margin-top: -290px;
+    padding-top: 10px;
+    padding-left: 35px;
+  }
+  .saving {
+    margin-left: 125px;
+  }
+  .saving-text {
+    margin-left: 260px;
+    font-size: xx-large;
+    margin-top: -68px;
+  }
+  .swap {
+    margin-left: 120px;
+  }
+  .swap-text {
+    margin-left: 445px;
+    font-size: xx-large;
+    margin-top: -68px;
+  }
+  .more-icon {
+    margin-left: 130px;
+  }
+  .more-text {
+    margin-left: 710px;
+    font-size: xx-large;
+    margin-top: -68px;
+  }
+}
